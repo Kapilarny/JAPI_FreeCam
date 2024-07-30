@@ -1,10 +1,9 @@
 
-# Jojo API Example Plugin
+# JAPI_FreeCam
 
-This is an example plugin for the Jojo API.
-You can use this as a starting point for your own plugins!
+Free camera plugin for ASBR!
 
 ## Installation
 
-1. Run `git clone --recurse-submodules -j8 https://github.com/Kapilarny/JAPI_ExamplePlugin`
+1. Run `git clone --recurse-submodules -j8 https://github.com/Kapilarny/JAPI_FreeCam`
 2. Build with cmake and enjoy!
